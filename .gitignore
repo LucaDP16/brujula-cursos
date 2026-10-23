@@ -1,0 +1,35 @@
+# Dependencias
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+
+# Build
+dist/
+build/
+.vite/
+
+# Entorno (nunca se suben secretos)
+.env
+.env.*
+!.env.example
+
+# Python / uv
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# Datos locales de Postgres/Docker
+pgdata/
+postgres-data/
+
+# Sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
