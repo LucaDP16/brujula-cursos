@@ -89,6 +89,6 @@ En su mejor versión, Brújula es el lugar de referencia de la comunidad para en
 | Fecha | Cambio | Por qué |
 |-------|--------|---------|
 | 20/10/2026 | SPEC de clase recibida en el aula | — |
-| 21/10/2026 | Primer commit: SPEC de clase tal cual | regla de la consigna |
+| 23/10/2026 | Primer commit: SPEC de clase tal cual | regla de la consigna |
 | 23/10/2026 | Refinamiento: identidad, alcance, reglas y decisiones sobre los vacíos | resolver las ambigüedades de la SPEC de clase |
 | 23/10/2026 | Se registraron las versiones exactas del stack en §6 | la consigna pide registrar lo realmente instalado |
