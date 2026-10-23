@@ -57,12 +57,13 @@ En su mejor versión, Brújula es el lugar de referencia de la comunidad para en
 
 | Capa | Tecnología | Versión exacta instalada |
 |------|------------|--------------------------|
-| Frontend | React + Vite + pnpm | [completar con pnpm -v] |
-| Backend | FastAPI + uv | [completar con uv --version] |
+| Frontend | React + Vite + pnpm | React 19.3.1 · Vite 8.3.5 · pnpm 12.15.0 |
+| Backend | FastAPI + uv | FastAPI 0.162.0 · uv 0.12.1 |
 | Base de datos | PostgreSQL | 18.6 |
-| Infra (dev) | Docker + Docker Compose | [completar con docker --version] |
+| Infra (dev) | Docker + Docker Compose | Docker 29.5.3 |
 
 > Las versiones exactas se completan antes de entregar (ver TRD §1).
+> Versiones verificadas el 23/10/2026. El detalle y las alternativas están en TRD §1.
 
 ## 7. Restricciones técnicas heredadas de la SPEC de clase
 
@@ -90,3 +91,4 @@ En su mejor versión, Brújula es el lugar de referencia de la comunidad para en
 | 20/10/2026 | SPEC de clase recibida en el aula | — |
 | 21/10/2026 | Primer commit: SPEC de clase tal cual | regla de la consigna |
 | 23/10/2026 | Refinamiento: identidad, alcance, reglas y decisiones sobre los vacíos | resolver las ambigüedades de la SPEC de clase |
+| 23/10/2026 | Se registraron las versiones exactas del stack en §6 | la consigna pide registrar lo realmente instalado |
